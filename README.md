@@ -6,6 +6,10 @@ Code [here](https://github.com/activerabbit/Springboard/blob/master/Project/Mach
 Report [here](https://github.com/activerabbit/Springboard/blob/master/Project/Report.docx)<br>
 Presentation [here](https://github.com/activerabbit/Springboard/blob/master/Project/Presentation.pptx)<br>
 
+### Project: Attracting Airbnb Consumers to your Home <br>
+Airbnb is a great platform for homeowners to rent out their residence and earn passive income; however, it can be difficult for homeowners to market an effective narrative to attract travelers. To better provide guidance for homeowner, this project explores factors that affect the number of review (a metric used to determine indirectly the lodging counts) through visual analysis and machine learning and predict the performance of homes.<br>
+Code [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Machine%20Learning.ipynb)<br>
+
 ### Data Wrangling:
 Stock Data-API, average [here](https://github.com/activerabbit/Springboard/blob/master/Assignment/API/api_data_wrangling_mini_project.ipynb)<br>
 Working with JSON [here](https://github.com/activerabbit/Springboard/blob/master/Assignment/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)<br>
