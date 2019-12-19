@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 ~$Report.docx
+Data/Raw/listings.csv
+Data/Processed/listings.csv
+Data/Processed/After_EDA_listings.csv
