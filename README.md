@@ -2,13 +2,18 @@ This is the repository for assignments and Project for Springboard
 
 ### Project: Finding Dogs a Home <br>
 1 in 4 animals are euthanized at shelters. This project is an attempt to reduce euthanization of dogs by exploring critical features that contribute to animal outcome and predicting the dogs at risk so that facilities can allocate resources in a systematic and smart fashion to improve the outcome of dogs. This project uses 4 dataset from different shelters around the United States and could be used to develop a smart transferring system for risky dogs that may be adoptable at another shelter. <br>
-Code [here](https://github.com/activerabbit/Springboard/blob/master/Project/Machine%20Learning.ipynb)<br>
-Report [here](https://github.com/activerabbit/Springboard/blob/master/Project/Report.docx)<br>
-Presentation [here](https://github.com/activerabbit/Springboard/blob/master/Project/Presentation.pptx)<br>
+Code [here](https://github.com/activerabbit/Springboard/blob/master/Project/Notebooks/Machine%20Learning.ipynb)<br>
+Report [here](https://github.com/activerabbit/Springboard/blob/master/Project/Reports/Report.docx)<br>
+Presentation [here](https://github.com/activerabbit/Springboard/blob/master/Project/Reports/Presentation.pptx)<br>
 
 ### Project: Attracting Airbnb Consumers to your Home <br>
 Airbnb is a great platform for homeowners to rent out their residence and earn passive income; however, it can be difficult for homeowners to market an effective narrative to attract travelers. To better provide guidance for homeowner, this project explores factors that affect the number of review (a metric used to determine indirectly the lodging counts) through visual analysis and machine learning and predict the performance of homes.<br>
-Code [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Machine%20Learning.ipynb)<br>
+Proposal [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/Proposal%20for%20Airbnb%20Project.docx)<br>
+Code (Data Wrangling) [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/Data%20Wrangling.ipynb)<br>
+Code (EDA Statistics) [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/EDA%20Statistics.ipynb)<br>
+Code (Machine Learning) [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/Machine%20Learning.ipynb)<br>
+Report [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Reports/Milestone%20Report%202.docx)
+
 
 ### Data Wrangling:
 Stock Data-API, average [here](https://github.com/activerabbit/Springboard/blob/master/Assignment/API/api_data_wrangling_mini_project.ipynb)<br>
