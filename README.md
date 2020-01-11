@@ -15,10 +15,11 @@ Proposal [here](https://github.com/activerabbit/Springboard/blob/master/Project%
 Data Wrangling Code [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/Data%20Wrangling.ipynb)<br>
 EDA Statistics Code [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/EDA%20Statistics.ipynb)<br>
 Machine Learning Code [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Notebooks/Machine%20Learning.ipynb)<br>
-Report [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Reports/Milestone%20Report%202.docx)
+Report [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Reports/Milestone%20Report%202.docx)<br>
+Presentation [here](https://github.com/activerabbit/Springboard/blob/master/Project%202/Reports/Forcasting%20the%20Number%20of%20Reviews%20for%20Airbnb%20Host.pptx)
 
 
-###Ultimate Challenge
+### Ultimate Challenge
 This challenge focuses on creative solutions for rider retention at a company named Ultimate. Ultimate appears to be an Uber-like company where they have a fleet of drivers. Ultimate wants to know what factors lead to retention of riders after 6 months. This assignment uses exploratory analysis, statistical analysis and machine learning to solve the problem<br>
 [here](https://github.com/activerabbit/Springboard/blob/master/Assignment/ultimate_challenge/Ultimate%20Challenge.ipynb)
 
